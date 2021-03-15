@@ -11,7 +11,7 @@
 - 각이 점점 늘어날수록 강해지는 유닛들 / 적 컨셉(미정)
 ## 2. 관련 자료
 - 랜덤 다이스
-<img src="./이미지/store_scene.jpg">{: width="100" height="100"}
+<img src="./이미지/store_scene.jpg"{: width="100" height="100"}> 
 ## 3. 구성 요소
 - 
 ## 4. 흐름도
