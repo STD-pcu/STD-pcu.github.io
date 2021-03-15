@@ -12,7 +12,7 @@
 ## 2. 관련 자료
 ### -1 참고 자료
 - 랜덤 다이스
-![initial] (https://twitter.com/TARDIS_IF/status/1295260346848927747/photo/1)
+![initial] (https://pbs.twimg.com/media/EfmwarIVAAI5LAA?format=jpg&name=medium)
 ## 3. 구성 요소
 - 
 ## 4. 흐름도
