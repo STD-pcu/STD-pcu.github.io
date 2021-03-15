@@ -12,7 +12,7 @@
 ## 2. 관련 자료
 - 랜덤 다이스
 <>
-<image controls width="200" height="120" img src="./이미지/store_scene.jpg"> 
+<image controls width="600" height="400" img src="./이미지/store_scene.jpg"> 
 ## 3. 구성 요소
 - 
 ## 4. 흐름도
