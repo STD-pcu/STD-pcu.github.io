@@ -1,4 +1,3 @@
-# STD-pcu.github.io
 # Shape Tower Defense
 
 ### [1.컨셉](#컨셉)
