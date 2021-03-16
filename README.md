@@ -11,10 +11,10 @@
 - 각이 점점 늘어날수록 강해지는 유닛들 / 적 컨셉(미정)
 
 ## 2. 관련 자료
-- 랜덤 다이스 상점
+  - 랜덤 다이스 상점
 <image controls width="200" height="400" img src="./이미지/store_scene.jpg"> 
 
--- 랜덤 다이스 인게임
+  - 랜덤 다이스 인게임
 <image controls width="300" height="400" img src="./이미지/battle_scene.png"> 
   
 
