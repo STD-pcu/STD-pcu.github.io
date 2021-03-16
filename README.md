@@ -17,7 +17,7 @@
 
 <br>
 
-- 랜덤 다이스 인게임
+## 랜덤 다이스 인게임
 <image controls width="450" height="600" img src="./이미지/battle_scene.png"> 
   
 
