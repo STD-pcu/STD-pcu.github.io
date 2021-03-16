@@ -14,8 +14,12 @@
 <image controls width="200" height="400" img src="./이미지/store_scene.jpg">
 - 랜덤 다이스 인게임
 <image controls width="200" height="400" img src="./이미지/battle_scene.png">
+
 ## 3. 구성 요소
-### -1 시스템 디자인
-  ㅁㄴㅇㄼㅈㄷㄱㅋㄴㅇㄹ
-## 4. 흐름도
+## 4. 시스템 디자인
+### -1- 몬스터
+- 이동 속도
 - 
+- 속성 저항력(화, 수, 명, 암)
+- 각 몬스터 종류마다 서로 다른 속성 저항력을 보유
+- 속성 저항력% 만큼 해당 속성 데미지 감소
