@@ -14,10 +14,11 @@
 ## 2. 관련 자료
 - 랜덤 다이스 상점
 <image controls width="200" height="400" img src="./이미지/store_scene.jpg">
-  
-<br>
+
 - 랜덤 다이스 인게임
 <image controls width="300" height="400" img src="./이미지/battle_scene.png">
+  
+  
 <br><br>
 ## 3. 구성 요소
 ## 4. 시스템 디자인
