@@ -17,11 +17,14 @@
 ## 관련 자료
 - 랜덤 다이스 상점 및 인게임
 <img src="./img/store_scene3.jpg">
-<br>
-<img src="./img/store_scene4.png">
-<br>
-<img src="./img/battle_scene1.png">
 
+<br>
+
+<img src="./img/store_scene4.png">
+
+<br>
+
+<img src="./img/battle_scene1.png">
 
 <br>
 
