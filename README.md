@@ -17,9 +17,9 @@
 ## 관련 자료
 
 - 랜덤 다이스 상점 및 인게임
-<img src="./이미지/store_scene.jpg">
-<img src="./이미지/store_scene2.png">
-<img src="./이미지/battle_scene.png">
+<img src="./이미지/store_scene3.jpg">
+<img src="./이미지/store_scene4.png">
+<img src="./이미지/battle_scene1.png">
 
 
 <br>
