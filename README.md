@@ -6,7 +6,8 @@
 #### 3) [구성 요소](#구성-요소)
 #### 4) [시스템 디자인](#시스템-디자인)
 
-<br><br>
+<br>
+
 ## 컨셉
 - 디펜스 (타워 디펜스)
 - 각이 점점 늘어날수록 강해지는 유닛들 / 적 컨셉(미정)
@@ -19,7 +20,7 @@
 <image controls width="400" height="600" img src="./이미지/store_scene2.png">
 <image controls width="450" height="600" img src="./이미지/battle_scene.png">
   
-<br><br>
+<br>
   
 ## 구성 요소
 
