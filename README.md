@@ -17,9 +17,10 @@
 
 - 랜덤 다이스 상점 및 인게임
 <image controls width="300" height="600" img src="./이미지/store_scene.jpg">
+<br>
 <image controls width="400" height="600" img src="./이미지/store_scene2.png">
+<br>
 <image controls width="450" height="600" img src="./이미지/battle_scene.png">
-  
 <br>
   
 ## 구성 요소
