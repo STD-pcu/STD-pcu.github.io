@@ -20,10 +20,16 @@
 <image controls width="300" height="600" img src="./이미지/store_scene.jpg">
 <image controls width="400" height="600" img src="./이미지/store_scene2.png">
 <image controls width="450" height="600" img src="./이미지/battle_scene.png">
-  
+
+<br>
+
 ## 구성 요소
+
+<br>
     
 ## 시스템 디자인
+
+<br>
 
 ### 몬스터
 - 종류별 몬스터의 속도가 서로 다름
