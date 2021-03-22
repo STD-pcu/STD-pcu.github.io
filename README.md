@@ -21,6 +21,7 @@
 <br>
 <img src="./img/store1.jpeg"> 
 <img src="./img/store2.png">
+<br>
 
 - 랜덤 다이스 플레이 화면
 <br>
