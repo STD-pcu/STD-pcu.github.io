@@ -18,10 +18,12 @@
 
 ## 관련 자료
 - 랜덤 다이스 상점
+<br>
 <img src="./img/store1.jpeg"> 
 <img src="./img/store2.png">
 
 - 랜덤 다이스 플레이 화면
+<br>
 <img src="./img/battle_scene1.png">
 
 <br>
