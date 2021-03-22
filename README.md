@@ -18,8 +18,8 @@
 
 ## 관련 자료
 - 랜덤 다이스 상점
-<img src="./img/store_scene1.jpg"> 
-<img src="./img/store_scene2.jpeg">
+<img src="./img/store1.jpeg"> 
+<img src="./img/store2.png">
 
 - 랜덤 다이스 플레이 화면
 <img src="./img/battle_scene1.png">
