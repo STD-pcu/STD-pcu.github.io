@@ -47,7 +47,7 @@
 
 속성 | 명칭 | 설명
 ---- | ---- | ----
-체력 | HP | 현재 체력 / 최대 체력 <img src="./img/HP.png">
+체력 | HP | 현재 체력 / 최대 체력 <img src="./img/HP.PNG">
 보스 카운트 | BOSS |
 남은 몬스터 | count |
 재화 | gold |
