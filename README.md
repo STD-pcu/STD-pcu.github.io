@@ -48,9 +48,9 @@
 속성 | 명칭 | 설명
 ---- | ---- | ----
 체력 | HP | 현재 체력 / 최대 체력 <img src="./img/HP.PNG">
-보스 카운트 | BOSS |
-남은 몬스터 | count |
-재화 | gold |
+보스 카운트 | BOSS | 현재 라운드 / 목표 라운드 <img src="./img/보스 카운트.PNG">
+몬스터 수 | count | 남은 몬스터 / 현재 라운드 전체 몬스터 <img src="./img/남은 몬스터 수.PNG">
+재화 | gold | 현재 보유중인 재화 <img src="./img/재화.PNG">
 
 
 - 타워 공통
