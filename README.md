@@ -1,4 +1,4 @@
-# Shape Tower Defense
+# Flat Tower Defense
 
 ## 목차
 ### 1) [컨셉](#컨셉)
